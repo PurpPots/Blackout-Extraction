@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/buttonStyle.uss?fileID=7433441132597879392&amp;guid=7a162dbadb9a09949bcbfec9bf407d01&amp;type=3#buttonStyle" />
+    <engine:VisualElement style="flex-grow: 1; justify-content: center; align-items: center; font-size: 36px; border-top-width: 350px; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
+        <engine:Button text="Menu" name="back-button" class="button-style" style="-unity-font-definition: url(&quot;project://database/Assets/Art/Fonts/Square-Black.ttf?fileID=12800000&amp;guid=d7cffddcbc0cc8f4ebe6e28eb9804082&amp;type=3#Square-Black&quot;); width: 128px;" />
+    </engine:VisualElement>
+</engine:UXML>
